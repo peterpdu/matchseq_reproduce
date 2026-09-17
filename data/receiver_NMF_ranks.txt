@@ -1,0 +1,15 @@
+	rank
+CAF	7
+CD4	6
+CD8	10
+cDC1	7
+cDC2	8
+ILC1	7
+macrophage	10
+MDSC	7
+MoDC	9
+monocyte	7
+neutrophil	12
+NK	13
+pDC	7
+Treg	8
